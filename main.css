@@ -1,24 +1,25 @@
 ﻿body {
-    background-color: rgb(48, 25, 52);
+    background-color: #ffefcc;
+  
 }
 
 @font-face {
     font-family: 'Barlow Condensed';
-    src: url(Fonts/BarlowCondensed/BarlowCondensed-Medium.ttf);
+    src: url(Fonts/BarlowCondensed/BarlowCondensed-Light.ttf);
     font-style: normal;
     font-weight: 100;
 }
 @font-face {
     font-family: 'Orbitron';
-    src: url(Fonts/Orbitron/Orbitron-Medium.ttf);
+    src: url(Fonts/Orbitron/Orbitron-Regular.ttf);
     font-style: normal;
     font-weight: 100;
 }
 
 h1, h2, a, p
 {
-    font-family: Orbitron;
+    font-family: 'Barlow Condensed';
     font-weight: 100;
-    color: white;
+    color: black;
 }
 
