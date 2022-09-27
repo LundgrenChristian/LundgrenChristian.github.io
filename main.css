@@ -8,10 +8,16 @@
     font-style: normal;
     font-weight: 100;
 }
+@font-face {
+    font-family: 'Orbitron';
+    src: url(Fonts/Orbitron/Orbitron-Medium.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
 
 h1, h2, a, p
 {
-    font-family: 'Barlow Condensed';
+    font-family: Orbitron;
     font-weight: 100;
     color: white;
 }
