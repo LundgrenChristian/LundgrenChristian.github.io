@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Documents",
     "\\graphics",
-    "\\html"
+    "\\html",
+    "\\Photos"
   ],
-  "SelectedNode": "\\html\\projects.html",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
