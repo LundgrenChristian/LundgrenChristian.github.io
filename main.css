@@ -16,7 +16,7 @@
     font-weight: 100;
 }
 
-h1, h2, h3, h4, a, p
+h1, h2, h3, h4, a, p, b
 {
     font-family: 'Barlow Condensed';
    font-weight: 100;
@@ -27,19 +27,13 @@ h1, h2, h3, h4, a, p
 
 
 
-p
-{
-    line-height: 1.8;
-   
-  
-}
 
 h1, h2, h3, h4
 {
     line-height: 0.5;
 }
 
-img, a, p
+img, a, p, b
 {
    
     margin-left: auto;
@@ -47,6 +41,7 @@ img, a, p
   
 }
 
-p {
+p, b
+{
     width: 50%;
 }
